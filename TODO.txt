@@ -1,0 +1,7 @@
+TODO: 
+- Add models.py
+- Add tests.py 
+- Add documentation 
+- Inline comments
+- PyPI release files
+- Contributors, License files
